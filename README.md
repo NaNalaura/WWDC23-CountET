@@ -10,8 +10,11 @@
 
    To create the playgrounds, I used SwiftUI. I preferred it over SpriteKit, even knowing that it would be a more difficult task to accomplish since I had to do a lot of animations in my project, because I wanted to use this opportunity to apply all the knowledge I got with SwiftUI and become more familiar with it. Since the beginning of the project, I had in mind that I wanted to make an app with my own illustrations, because since I was a little girl I love to draw, explore shapes, colors and letters and understand how these aesthetic identifications talk to people. So I used Figma, a graphic editor for design projects. This tool was useful to create characters, scenarios, objects (such as Numberoids) and prototyping the application. This editor was chosen for greater familiarity with its tools and the practicality it provides in using them. This project allowed me to deepen my learning. I also decided to make own illustrations digitally  and not draw them by hand, as I wanted to challenge myself to explore what I was able to do with a graphic editor, with a result that I would never have achieved with just paper, since the style of the line I got in the final drawing is very different from my hand line. It was difficult at first, but this process allowed me to gain more confidence in creating both illustrations and applications.
 
-## Features
-* item 1
+## Gameplay
+
+https://github.com/NaNalaura/WWDC23-CountET/assets/133969722/9095c5c8-d386-40eb-ae98-732892778757
+
+
 
 ## Licences
 * Font: Acme (licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL))
