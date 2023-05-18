@@ -1,6 +1,8 @@
 # CountET
 
-_Winner app wwdc_
+<p align="center">
+   <img align="left" src="Resources/Banner 2.png" width=1246px>
+</p>
 
 ## About
 
