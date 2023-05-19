@@ -6,7 +6,8 @@
 
 ## About
 
-   The CountET is a game made for the Swift Student Challenge (WWDC23) that gives children greater familiarity with sum, the first operation we learned at school and the one that will introduce us to all the others. Being presented as a game where you help the hero to complete his goal, the CountET aims to make people see mathematics not as a monster that must be faced, but as a fun challenge that we are able to pass.
+   The CountET is a game made for the Swift Student Challenge (WWDC23) that gives children greater familiarity with sum, the first operation we learned at school and the one that will introduce us to all the others. Being presented as a game where you help the hero to complete his goal, the CountET aims to make people see mathematics not as a monster that must be faced, but as a fun challenge that we are able to pass. [See more](https://github.com/NaNalaura/WWDC23-CountET/blob/main/CountET.swiftpm/README.md)
+
 ## Features
 
 * Provides practice in addition as the game progresses;
